@@ -1,0 +1,583 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 60;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		202E60B92C217F9E0062D40F /* GoSnowApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202E60B82C217F9E0062D40F /* GoSnowApp.swift */; };
+		202E60BB2C217F9E0062D40F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202E60BA2C217F9E0062D40F /* ContentView.swift */; };
+		202E60BD2C217F9F0062D40F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 202E60BC2C217F9F0062D40F /* Assets.xcassets */; };
+		202E60C02C217F9F0062D40F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 202E60BF2C217F9F0062D40F /* Preview Assets.xcassets */; };
+		202E60CA2C217F9F0062D40F /* GoSnowTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202E60C92C217F9F0062D40F /* GoSnowTests.swift */; };
+		202E60D42C217F9F0062D40F /* GoSnowUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202E60D32C217F9F0062D40F /* GoSnowUITests.swift */; };
+		202E60D62C217F9F0062D40F /* GoSnowUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202E60D52C217F9F0062D40F /* GoSnowUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		202E60C62C217F9F0062D40F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 202E60AD2C217F9E0062D40F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 202E60B42C217F9E0062D40F;
+			remoteInfo = GoSnow;
+		};
+		202E60D02C217F9F0062D40F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 202E60AD2C217F9E0062D40F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 202E60B42C217F9E0062D40F;
+			remoteInfo = GoSnow;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		202E60B52C217F9E0062D40F /* GoSnow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoSnow.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		202E60B82C217F9E0062D40F /* GoSnowApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoSnowApp.swift; sourceTree = "<group>"; };
+		202E60BA2C217F9E0062D40F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		202E60BC2C217F9F0062D40F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		202E60BF2C217F9F0062D40F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		202E60C52C217F9F0062D40F /* GoSnowTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GoSnowTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		202E60C92C217F9F0062D40F /* GoSnowTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoSnowTests.swift; sourceTree = "<group>"; };
+		202E60CF2C217F9F0062D40F /* GoSnowUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GoSnowUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		202E60D32C217F9F0062D40F /* GoSnowUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoSnowUITests.swift; sourceTree = "<group>"; };
+		202E60D52C217F9F0062D40F /* GoSnowUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoSnowUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		202E60B22C217F9E0062D40F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		202E60C22C217F9F0062D40F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		202E60CC2C217F9F0062D40F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		202E60AC2C217F9E0062D40F = {
+			isa = PBXGroup;
+			children = (
+				202E60B72C217F9E0062D40F /* GoSnow */,
+				202E60C82C217F9F0062D40F /* GoSnowTests */,
+				202E60D22C217F9F0062D40F /* GoSnowUITests */,
+				202E60B62C217F9E0062D40F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		202E60B62C217F9E0062D40F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				202E60B52C217F9E0062D40F /* GoSnow.app */,
+				202E60C52C217F9F0062D40F /* GoSnowTests.xctest */,
+				202E60CF2C217F9F0062D40F /* GoSnowUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		202E60B72C217F9E0062D40F /* GoSnow */ = {
+			isa = PBXGroup;
+			children = (
+				202E60B82C217F9E0062D40F /* GoSnowApp.swift */,
+				202E60BA2C217F9E0062D40F /* ContentView.swift */,
+				202E60BC2C217F9F0062D40F /* Assets.xcassets */,
+				202E60BE2C217F9F0062D40F /* Preview Content */,
+			);
+			path = GoSnow;
+			sourceTree = "<group>";
+		};
+		202E60BE2C217F9F0062D40F /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				202E60BF2C217F9F0062D40F /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		202E60C82C217F9F0062D40F /* GoSnowTests */ = {
+			isa = PBXGroup;
+			children = (
+				202E60C92C217F9F0062D40F /* GoSnowTests.swift */,
+			);
+			path = GoSnowTests;
+			sourceTree = "<group>";
+		};
+		202E60D22C217F9F0062D40F /* GoSnowUITests */ = {
+			isa = PBXGroup;
+			children = (
+				202E60D32C217F9F0062D40F /* GoSnowUITests.swift */,
+				202E60D52C217F9F0062D40F /* GoSnowUITestsLaunchTests.swift */,
+			);
+			path = GoSnowUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		202E60B42C217F9E0062D40F /* GoSnow */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 202E60D92C217F9F0062D40F /* Build configuration list for PBXNativeTarget "GoSnow" */;
+			buildPhases = (
+				202E60B12C217F9E0062D40F /* Sources */,
+				202E60B22C217F9E0062D40F /* Frameworks */,
+				202E60B32C217F9E0062D40F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GoSnow;
+			productName = GoSnow;
+			productReference = 202E60B52C217F9E0062D40F /* GoSnow.app */;
+			productType = "com.apple.product-type.application";
+		};
+		202E60C42C217F9F0062D40F /* GoSnowTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 202E60DC2C217F9F0062D40F /* Build configuration list for PBXNativeTarget "GoSnowTests" */;
+			buildPhases = (
+				202E60C12C217F9F0062D40F /* Sources */,
+				202E60C22C217F9F0062D40F /* Frameworks */,
+				202E60C32C217F9F0062D40F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				202E60C72C217F9F0062D40F /* PBXTargetDependency */,
+			);
+			name = GoSnowTests;
+			productName = GoSnowTests;
+			productReference = 202E60C52C217F9F0062D40F /* GoSnowTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		202E60CE2C217F9F0062D40F /* GoSnowUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 202E60DF2C217F9F0062D40F /* Build configuration list for PBXNativeTarget "GoSnowUITests" */;
+			buildPhases = (
+				202E60CB2C217F9F0062D40F /* Sources */,
+				202E60CC2C217F9F0062D40F /* Frameworks */,
+				202E60CD2C217F9F0062D40F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				202E60D12C217F9F0062D40F /* PBXTargetDependency */,
+			);
+			name = GoSnowUITests;
+			productName = GoSnowUITests;
+			productReference = 202E60CF2C217F9F0062D40F /* GoSnowUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		202E60AD2C217F9E0062D40F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					202E60B42C217F9E0062D40F = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					202E60C42C217F9F0062D40F = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 202E60B42C217F9E0062D40F;
+					};
+					202E60CE2C217F9F0062D40F = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 202E60B42C217F9E0062D40F;
+					};
+				};
+			};
+			buildConfigurationList = 202E60B02C217F9E0062D40F /* Build configuration list for PBXProject "GoSnow" */;
+			compatibilityVersion = "Xcode 15.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 202E60AC2C217F9E0062D40F;
+			productRefGroup = 202E60B62C217F9E0062D40F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				202E60B42C217F9E0062D40F /* GoSnow */,
+				202E60C42C217F9F0062D40F /* GoSnowTests */,
+				202E60CE2C217F9F0062D40F /* GoSnowUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		202E60B32C217F9E0062D40F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				202E60C02C217F9F0062D40F /* Preview Assets.xcassets in Resources */,
+				202E60BD2C217F9F0062D40F /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		202E60C32C217F9F0062D40F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		202E60CD2C217F9F0062D40F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		202E60B12C217F9E0062D40F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				202E60BB2C217F9E0062D40F /* ContentView.swift in Sources */,
+				202E60B92C217F9E0062D40F /* GoSnowApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		202E60C12C217F9F0062D40F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				202E60CA2C217F9F0062D40F /* GoSnowTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		202E60CB2C217F9F0062D40F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				202E60D42C217F9F0062D40F /* GoSnowUITests.swift in Sources */,
+				202E60D62C217F9F0062D40F /* GoSnowUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		202E60C72C217F9F0062D40F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 202E60B42C217F9E0062D40F /* GoSnow */;
+			targetProxy = 202E60C62C217F9F0062D40F /* PBXContainerItemProxy */;
+		};
+		202E60D12C217F9F0062D40F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 202E60B42C217F9E0062D40F /* GoSnow */;
+			targetProxy = 202E60D02C217F9F0062D40F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		202E60D72C217F9F0062D40F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		202E60D82C217F9F0062D40F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		202E60DA2C217F9F0062D40F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"GoSnow/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = summerfuture.GoSnow;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		202E60DB2C217F9F0062D40F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"GoSnow/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = summerfuture.GoSnow;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		202E60DD2C217F9F0062D40F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = summerfuture.GoSnowTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GoSnow.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/GoSnow";
+			};
+			name = Debug;
+		};
+		202E60DE2C217F9F0062D40F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = summerfuture.GoSnowTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GoSnow.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/GoSnow";
+			};
+			name = Release;
+		};
+		202E60E02C217F9F0062D40F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = summerfuture.GoSnowUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = GoSnow;
+			};
+			name = Debug;
+		};
+		202E60E12C217F9F0062D40F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = summerfuture.GoSnowUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = GoSnow;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		202E60B02C217F9E0062D40F /* Build configuration list for PBXProject "GoSnow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				202E60D72C217F9F0062D40F /* Debug */,
+				202E60D82C217F9F0062D40F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		202E60D92C217F9F0062D40F /* Build configuration list for PBXNativeTarget "GoSnow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				202E60DA2C217F9F0062D40F /* Debug */,
+				202E60DB2C217F9F0062D40F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		202E60DC2C217F9F0062D40F /* Build configuration list for PBXNativeTarget "GoSnowTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				202E60DD2C217F9F0062D40F /* Debug */,
+				202E60DE2C217F9F0062D40F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		202E60DF2C217F9F0062D40F /* Build configuration list for PBXNativeTarget "GoSnowUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				202E60E02C217F9F0062D40F /* Debug */,
+				202E60E12C217F9F0062D40F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 202E60AD2C217F9E0062D40F /* Project object */;
+}
