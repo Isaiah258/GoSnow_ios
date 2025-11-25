@@ -6,7 +6,7 @@
 //
 
 import Testing
-@testable import GoSnow
+//@testable import GoSnow
 
 struct GoSnowTests {
 

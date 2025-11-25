@@ -1,0 +1,123 @@
+{
+  "originHash" : "8995f60e153010a0553f53e8aa081bbf0ee97c80bb21cdb88979f4aa7549e601",
+  "pins" : [
+    {
+      "identity" : "grid",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exyte/Grid",
+      "state" : {
+        "revision" : "65329599b1bbedbfd06eb5a432bab58403c27a8e",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "2015fda791daa72c8058619545a593bf8c1dd59f",
+        "version" : "8.5.0"
+      }
+    },
+    {
+      "identity" : "refresh",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wxxsw/Refresh",
+      "state" : {
+        "revision" : "4b507f7c6f08f80d853b7ff052f4324a1279cdfe",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "skphotobrowser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/suzuki-0000/SKPhotoBrowser",
+      "state" : {
+        "revision" : "f9d8589310ad935270c2b24b3f97c5a89970aff5",
+        "version" : "7.1.0"
+      }
+    },
+    {
+      "identity" : "snap",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nerdsupremacist/Snap.git",
+      "state" : {
+        "revision" : "29943b7064547f391ea8352dea04903e2263d831",
+        "version" : "0.2.2"
+      }
+    },
+    {
+      "identity" : "supabase-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/supabase/supabase-swift.git",
+      "state" : {
+        "revision" : "bbff2689e9c5a8da878b303af6ea03d6c9748fec",
+        "version" : "2.24.1"
+      }
+    },
+    {
+      "identity" : "swift-asn1",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-asn1.git",
+      "state" : {
+        "revision" : "7faebca1ea4f9aaf0cda1cef7c43aecd2311ddf6",
+        "version" : "1.3.0"
+      }
+    },
+    {
+      "identity" : "swift-concurrency-extras",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-concurrency-extras",
+      "state" : {
+        "revision" : "82a4ae7170d98d8538ec77238b7eb8e7199ef2e8",
+        "version" : "1.3.1"
+      }
+    },
+    {
+      "identity" : "swift-crypto",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-crypto.git",
+      "state" : {
+        "revision" : "ff0f781cf7c6a22d52957e50b104f5768b50c779",
+        "version" : "3.10.0"
+      }
+    },
+    {
+      "identity" : "swift-http-types",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-http-types.git",
+      "state" : {
+        "revision" : "ef18d829e8b92d731ad27bb81583edd2094d1ce3",
+        "version" : "1.3.1"
+      }
+    },
+    {
+      "identity" : "swiftui-contributionchart",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VIkill33/SwiftUI-ContributionChart.git",
+      "state" : {
+        "revision" : "1a5456abe2118f8605bed703bc387fc00eed65e9",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "timer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mijick/Timer",
+      "state" : {
+        "revision" : "93fe777e0c7e693f388ce0ffeeec97b3dd812743",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "xctest-dynamic-overlay",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
+      "state" : {
+        "revision" : "a3f634d1a409c7979cabc0a71b3f26ffa9fc8af1",
+        "version" : "1.4.3"
+      }
+    }
+  ],
+  "version" : 3
+}

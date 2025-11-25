@@ -7,6 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2007D8942CA1A9410007ED4D /* AuthKey_DVLFVN65YU.p8 in Resources */ = {isa = PBXBuildFile; fileRef = 2007D8932CA1A9410007ED4D /* AuthKey_DVLFVN65YU.p8 */; };
+		2007D8952CA1A9410007ED4D /* AuthKey_DVLFVN65YU.p8 in Resources */ = {isa = PBXBuildFile; fileRef = 2007D8932CA1A9410007ED4D /* AuthKey_DVLFVN65YU.p8 */; };
+		2007D8962CA1A9410007ED4D /* AuthKey_DVLFVN65YU.p8 in Resources */ = {isa = PBXBuildFile; fileRef = 2007D8932CA1A9410007ED4D /* AuthKey_DVLFVN65YU.p8 */; };
+		2007D8982CA1C8D10007ED4D /* StoreManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2007D8972CA1C8D10007ED4D /* StoreManager.swift */; };
+		2007D8A92CA69D9C0007ED4D /* premium.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 2007D8A82CA69D9C0007ED4D /* premium.storekit */; };
+		2007D8AA2CA69D9C0007ED4D /* premium.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 2007D8A82CA69D9C0007ED4D /* premium.storekit */; };
+		2007D8AB2CA69D9C0007ED4D /* premium.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 2007D8A82CA69D9C0007ED4D /* premium.storekit */; };
+		2007D8AD2CA98EA60007ED4D /* demo6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2007D8AC2CA98EA60007ED4D /* demo6.swift */; };
+		2007D8AF2CAB1C8E0007ED4D /* ZoomableImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2007D8AE2CAB1C8E0007ED4D /* ZoomableImageView.swift */; };
+		2007D8B12CAC63170007ED4D /* Sheet2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2007D8B02CAC63170007ED4D /* Sheet2View.swift */; };
+		2007D8B52CAE84E50007ED4D /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2007D8B42CAE84E50007ED4D /* AddItemView.swift */; };
+		2007D8B72CAEBB230007ED4D /* AddPostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2007D8B62CAEBB230007ED4D /* AddPostView.swift */; };
+		2007D8B92CB028340007ED4D /* CommentsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2007D8B82CB028340007ED4D /* CommentsView.swift */; };
+		2007D8BB2CB02F6E0007ED4D /* PostDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2007D8BA2CB02F6E0007ED4D /* PostDetailView.swift */; };
+		2016A8542C6E485A001F428B /* ChartsOfSnowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2016A8532C6E485A001F428B /* ChartsOfSnowView.swift */; };
+		2016A8582C70DD94001F428B /* Sheet3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2016A8572C70DD94001F428B /* Sheet3View.swift */; };
+		2016A85A2C718D07001F428B /* Sheet1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2016A8592C718D07001F428B /* Sheet1View.swift */; };
+		2016A85C2C760EAC001F428B /* MapViewRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2016A85B2C760EAC001F428B /* MapViewRepresentable.swift */; };
+		2016A85E2C76120B001F428B /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2016A85D2C76120B001F428B /* LocationManager.swift */; };
+		2016A8682C78E262001F428B /* Welcome1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2016A8672C78E262001F428B /* Welcome1View.swift */; };
+		2016A86A2C78E33F001F428B /* Welcome2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2016A8692C78E33F001F428B /* Welcome2View.swift */; };
+		2016A86C2C78E34D001F428B /* Welcome3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2016A86B2C78E34D001F428B /* Welcome3View.swift */; };
+		2016A88C2C7DECE4001F428B /* Premium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2016A88B2C7DECE4001F428B /* Premium.swift */; };
+		2016A88F2C7E2950001F428B /* PremiumCard1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2016A88E2C7E2950001F428B /* PremiumCard1.swift */; };
+		2016A8912C7E295D001F428B /* PremiumCard2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2016A8902C7E295D001F428B /* PremiumCard2.swift */; };
+		2016A8932C7E2965001F428B /* PremiumCard3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2016A8922C7E2965001F428B /* PremiumCard3.swift */; };
+		2016A8982C82180B001F428B /* Auth in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A8972C82180B001F428B /* Auth */; };
+		2016A89A2C82180B001F428B /* Functions in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A8992C82180B001F428B /* Functions */; };
+		2016A8A02C82180B001F428B /* Storage in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A89F2C82180B001F428B /* Storage */; };
+		2016A8A42C871CD4001F428B /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2016A8A32C871CD4001F428B /* LoginView.swift */; };
+		2016A8A92C88752F001F428B /* Auth in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A8A82C88752F001F428B /* Auth */; };
+		2016A8AB2C88752F001F428B /* Functions in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A8AA2C88752F001F428B /* Functions */; };
+		2016A8AD2C88752F001F428B /* PostgREST in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A8AC2C88752F001F428B /* PostgREST */; };
+		2016A8AF2C88752F001F428B /* Storage in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A8AE2C88752F001F428B /* Storage */; };
+		2016A8B12C88752F001F428B /* Supabase in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A8B02C88752F001F428B /* Supabase */; };
+		2016A8B32C887667001F428B /* Functions in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A8B22C887667001F428B /* Functions */; };
+		2016A8B52C887667001F428B /* PostgREST in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A8B42C887667001F428B /* PostgREST */; };
+		2016A8B72C887667001F428B /* Storage in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A8B62C887667001F428B /* Storage */; };
+		2016A8B92C887667001F428B /* Supabase in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A8B82C887667001F428B /* Supabase */; };
+		2016A8BB2C8876AD001F428B /* Auth in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A8BA2C8876AD001F428B /* Auth */; };
+		2016A8BD2C8876AD001F428B /* Supabase in Frameworks */ = {isa = PBXBuildFile; productRef = 2016A8BC2C8876AD001F428B /* Supabase */; };
 		202E60B92C217F9E0062D40F /* GoSnowApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202E60B82C217F9E0062D40F /* GoSnowApp.swift */; };
 		202E60BB2C217F9E0062D40F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202E60BA2C217F9E0062D40F /* ContentView.swift */; };
 		202E60BD2C217F9F0062D40F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 202E60BC2C217F9F0062D40F /* Assets.xcassets */; };
@@ -14,6 +55,126 @@
 		202E60CA2C217F9F0062D40F /* GoSnowTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202E60C92C217F9F0062D40F /* GoSnowTests.swift */; };
 		202E60D42C217F9F0062D40F /* GoSnowUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202E60D32C217F9F0062D40F /* GoSnowUITests.swift */; };
 		202E60D62C217F9F0062D40F /* GoSnowUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202E60D52C217F9F0062D40F /* GoSnowUITestsLaunchTests.swift */; };
+		2037269D2C5FADCF00BC484C /* RecordingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2037269C2C5FADCF00BC484C /* RecordingView.swift */; };
+		203A638F2E2BA1B0005B7201 /* AllPostsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203A638E2E2BA1B0005B7201 /* AllPostsView.swift */; };
+		203A63912E2BA3C8005B7201 /* ResortPostsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203A63902E2BA3C8005B7201 /* ResortPostsView.swift */; };
+		203A63932E2BA4DE005B7201 /* 日后修改.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203A63922E2BA4DE005B7201 /* 日后修改.swift */; };
+		203A63952E332F92005B7201 /* extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203A63942E332F92005B7201 /* extension.swift */; };
+		203A63982E33911B005B7201 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 203A63972E33911B005B7201 /* Kingfisher */; };
+		203A639A2E33915C005B7201 /* KFImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203A63992E33915C005B7201 /* KFImageView.swift */; };
+		203A63A12E3545F3005B7201 /* ExyteGrid in Frameworks */ = {isa = PBXBuildFile; productRef = 203A63A02E3545F3005B7201 /* ExyteGrid */; };
+		203A63A72E3758E8005B7201 /* PostCommentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203A63A62E3758E8005B7201 /* PostCommentViewModel.swift */; };
+		203A63AB2E376D27005B7201 /* PostDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203A63AA2E376D27005B7201 /* PostDetailViewModel.swift */; };
+		203A63AD2E377905005B7201 /* CommentCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203A63AC2E377905005B7201 /* CommentCellView.swift */; };
+		203A63AF2E392227005B7201 /* KeyboardResponder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203A63AE2E392227005B7201 /* KeyboardResponder.swift */; };
+		204D7E1A2C21A0A700465F0C /* ResortsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 204D7E192C21A0A700465F0C /* ResortsView.swift */; };
+		204D7E1C2C21A0DA00465F0C /* DailySnowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 204D7E1B2C21A0DA00465F0C /* DailySnowView.swift */; };
+		204D7E202C21A6D800465F0C /* WeatherSummaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 204D7E1F2C21A6D800465F0C /* WeatherSummaryView.swift */; };
+		2057317A2D17F94E00F946BD /* Refresh in Frameworks */ = {isa = PBXBuildFile; productRef = 205731792D17F94E00F946BD /* Refresh */; };
+		20653B712E42737A00966B6B /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20653B702E42737A00966B6B /* NotificationView.swift */; };
+		20653B732E42739200966B6B /* NotificationRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20653B722E42739200966B6B /* NotificationRowView.swift */; };
+		20653B752E4273B400966B6B /* NotificationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20653B742E4273B400966B6B /* NotificationViewModel.swift */; };
+		20744DBC2EA0DEFB008036DF /* demo3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DBB2EA0DEFB008036DF /* demo3.swift */; };
+		20744DBE2EA0E6CA008036DF /* demo4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DBD2EA0E6CA008036DF /* demo4.swift */; };
+		20744DC02EA1DEF1008036DF /* WelcomeAuthIntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DBF2EA1DEF1008036DF /* WelcomeAuthIntroView.swift */; };
+		20744DC32EA1DFFC008036DF /* login_intro_top.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 20744DC22EA1DFFC008036DF /* login_intro_top.mp4 */; };
+		20744DC72EA261DE008036DF /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DC62EA261DE008036DF /* OnboardingView.swift */; };
+		20744DC92EA51E27008036DF /* FeedVm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DC82EA51E27008036DF /* FeedVm.swift */; };
+		20744DD12EA66630008036DF /* ZoomableImageFullScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DD02EA66630008036DF /* ZoomableImageFullScreen.swift */; };
+		20744DD82EADC141008036DF /* SKPhotoBrowser in Frameworks */ = {isa = PBXBuildFile; productRef = 20744DD72EADC141008036DF /* SKPhotoBrowser */; };
+		20744DDA2EADD59C008036DF /* TwitterGridImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DD92EADD59C008036DF /* TwitterGridImages.swift */; };
+		20744DDC2EADFF86008036DF /* ImageViewer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DDB2EADFF86008036DF /* ImageViewer.swift */; };
+		20744DDE2EAE42F7008036DF /* CommentsVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DDD2EAE42F7008036DF /* CommentsVM.swift */; };
+		20744DE02EAE4359008036DF /* NotificationsVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DDF2EAE4359008036DF /* NotificationsVM.swift */; };
+		20744DE22EAF6CAC008036DF /* ThreadedCommentsVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DE12EAF6CAC008036DF /* ThreadedCommentsVM.swift */; };
+		20744DE42EB04ABC008036DF /* ThreadedCommentsSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DE32EB04ABC008036DF /* ThreadedCommentsSection.swift */; };
+		20744DE62EB05EF9008036DF /* TwoLevelCommentsVM.swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DE52EB05EF9008036DF /* TwoLevelCommentsVM.swift.swift */; };
+		20744DF02EB3B78F008036DF /* AppConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DEF2EB3B78F008036DF /* AppConfig.swift */; };
+		20744DF22EB3BB30008036DF /* SessionSummaryScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DF12EB3BB30008036DF /* SessionSummaryScreen.swift */; };
+		20744DF42EB3BE37008036DF /* EditProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DF32EB3BE37008036DF /* EditProfile.swift */; };
+		20744DF62EB3BE60008036DF /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DF52EB3BE60008036DF /* UserData.swift */; };
+		20744DF82EB48F53008036DF /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DF72EB48F53008036DF /* WelcomeView.swift */; };
+		20744DFA2EB490D2008036DF /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744DF92EB490D2008036DF /* SettingsView.swift */; };
+		20744E012EBAEF67008036DF /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744E002EBAEF67008036DF /* Models.swift */; };
+		20744E032EBAEF7B008036DF /* CarpoolAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744E022EBAEF7B008036DF /* CarpoolAPI.swift */; };
+		20744E052EBAEF8E008036DF /* CarpoolViewModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744E042EBAEF8E008036DF /* CarpoolViewModels.swift */; };
+		20744E072EBAEF9D008036DF /* CarpoolViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744E062EBAEF9D008036DF /* CarpoolViews.swift */; };
+		20744E0B2EBB3366008036DF /* AddCarpoolView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744E0A2EBB3366008036DF /* AddCarpoolView.swift */; };
+		20744E0F2EBC3F6D008036DF /* SkiMiniMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744E0E2EBC3F6D008036DF /* SkiMiniMapView.swift */; };
+		20744E122EBC95D0008036DF /* StatsTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744E112EBC95D0008036DF /* StatsTypes.swift */; };
+		20744E142EBC95E0008036DF /* SessionsAggregator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744E132EBC95E0008036DF /* SessionsAggregator.swift */; };
+		20744E162EBC9625008036DF /* StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744E152EBC9625008036DF /* StatsView.swift */; };
+		20744E182EBC96B6008036DF /* LocalStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744E172EBC96B6008036DF /* LocalStore.swift */; };
+		20744E1C2EBD935A008036DF /* MyCarpoolView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744E1B2EBD935A008036DF /* MyCarpoolView.swift */; };
+		20744E1E2EBDD709008036DF /* SnowDaysHeatmapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20744E1D2EBDD709008036DF /* SnowDaysHeatmapView.swift */; };
+		207912092CB7FC3900DC762D /* WeatherViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207912082CB7FC3900DC762D /* WeatherViewModel.swift */; };
+		2079120B2CB833B600DC762D /* BreakingReportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2079120A2CB833B600DC762D /* BreakingReportView.swift */; };
+		2079120D2CB836BE00DC762D /* ReportSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2079120C2CB836BE00DC762D /* ReportSheetView.swift */; };
+		207912112CB9674600DC762D /* BreakingReportsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207912102CB9674600DC762D /* BreakingReportsViewModel.swift */; };
+		207912132CB99D8D00DC762D /* ResortGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207912122CB99D8D00DC762D /* ResortGuideView.swift */; };
+		207912192CBE4DAD00DC762D /* CoachDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207912182CBE4DAD00DC762D /* CoachDetailView.swift */; };
+		2079121F2CD47E2E00DC762D /* ContributionChart in Frameworks */ = {isa = PBXBuildFile; productRef = 2079121E2CD47E2E00DC762D /* ContributionChart */; };
+		207912212CDBC72A00DC762D /* RankingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207912202CDBC72A00DC762D /* RankingViewModel.swift */; };
+		208678992DD4779F007B2540 /* PostTimelineViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 208678982DD4779F007B2540 /* PostTimelineViewModel.swift */; };
+		2086789B2DD47DE9007B2540 /* AddPostViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2086789A2DD47DE9007B2540 /* AddPostViewModel.swift */; };
+		2091F4C12C8D75C600BD854F /* supabase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2091F4C02C8D75C600BD854F /* supabase.swift */; };
+		2091F4CB2C90915E00BD854F /* ResortsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2091F4CA2C90915E00BD854F /* ResortsList.swift */; };
+		2091F4CD2C92DC2500BD854F /* demo5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2091F4CC2C92DC2500BD854F /* demo5.swift */; };
+		2091F4CF2C933E1600BD854F /* tempo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2091F4CE2C933E1600BD854F /* tempo.swift */; };
+		2093583F2ED0C8570023B725 /* AccountAndPrivate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209358342ED0C8570023B725 /* AccountAndPrivate.swift */; };
+		209358412ED0C8570023B725 /* AccountSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209358352ED0C8570023B725 /* AccountSetting.swift */; };
+		209358442ED0C8570023B725 /* CommunityTerms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209358362ED0C8570023B725 /* CommunityTerms.swift */; };
+		209358452ED0C8570023B725 /* Feedback.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209358372ED0C8570023B725 /* Feedback.swift */; };
+		209358492ED0C8570023B725 /* AboutUs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209358332ED0C8570023B725 /* AboutUs.swift */; };
+		2093584A2ED0C8570023B725 /* PrivatePolicy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209358382ED0C8570023B725 /* PrivatePolicy.swift */; };
+		20A9AF822E451A7E008DEE7E /* PostMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AF812E451A7E008DEE7E /* PostMainView.swift */; };
+		20A9AF852E483DD6008DEE7E /* SkiSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AF842E483DD6008DEE7E /* SkiSession.swift */; };
+		20A9AF892E483E06008DEE7E /* CoreLocationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AF882E483E06008DEE7E /* CoreLocationService.swift */; };
+		20A9AF8B2E483E23008DEE7E /* MetricsComputer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AF8A2E483E23008DEE7E /* MetricsComputer.swift */; };
+		20A9AF8D2E483E3D008DEE7E /* BasicMetricsComputer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AF8C2E483E3D008DEE7E /* BasicMetricsComputer.swift */; };
+		20A9AF8F2E483E54008DEE7E /* SessionRecorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AF8E2E483E54008DEE7E /* SessionRecorder.swift */; };
+		20A9AF912E483E6F008DEE7E /* BasicSessionRecorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AF902E483E6F008DEE7E /* BasicSessionRecorder.swift */; };
+		20A9AF952E483E9B008DEE7E /* JSONLocalStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AF942E483E9B008DEE7E /* JSONLocalStore.swift */; };
+		20A9AF972E483EB3008DEE7E /* RecordingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AF962E483EB3008DEE7E /* RecordingViewModel.swift */; };
+		20A9AF9A2E48F24D008DEE7E /* SessionSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AF992E48F24D008DEE7E /* SessionSummary.swift */; };
+		20A9AF9C2E48F268008DEE7E /* Membership.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AF9B2E48F268008DEE7E /* Membership.swift */; };
+		20A9AF9E2E48F2ED008DEE7E /* SessionSummarySheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AF9D2E48F2ED008DEE7E /* SessionSummarySheet.swift */; };
+		20A9AFA02E4A52BC008DEE7E /* SessionsStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AF9F2E4A52BC008DEE7E /* SessionsStore.swift */; };
+		20A9AFA22E4AF665008DEE7E /* AuthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AFA12E4AF665008DEE7E /* AuthManager.swift */; };
+		20A9AFA42E4E15C9008DEE7E /*  UIComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AFA32E4E15C9008DEE7E /*  UIComponents.swift */; };
+		20A9AFA62E4E1C17008DEE7E /* UserAvatar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AFA52E4E1C17008DEE7E /* UserAvatar.swift */; };
+		20A9AFA82E4E4B06008DEE7E /* KFUserAvatar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AFA72E4E4B06008DEE7E /* KFUserAvatar.swift */; };
+		20A9AFAA2E50E72F008DEE7E /* ResortPickerSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A9AFA92E50E72F008DEE7E /* ResortPickerSheet.swift */; };
+		20AC3BF12D40E8C100925454 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AC3BF02D40E8C100925454 /* CardView.swift */; };
+		20AC3BF32D412DAD00925454 /* QuestionDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AC3BF22D412DAD00925454 /* QuestionDetailView.swift */; };
+		20B213F52C39222500EAEA4F /* SnowSquareView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B213F42C39222500EAEA4F /* SnowSquareView.swift */; };
+		20B213F72C39229800EAEA4F /* RankingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B213F62C39229800EAEA4F /* RankingView.swift */; };
+		20B213F92C3922BB00EAEA4F /* FindCoachView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B213F82C3922BB00EAEA4F /* FindCoachView.swift */; };
+		20B213FB2C3922DA00EAEA4F /* GuideBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B213FA2C3922DA00EAEA4F /* GuideBookView.swift */; };
+		20B213FD2C3922F600EAEA4F /* AppLogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B213FC2C3922F600EAEA4F /* AppLogoView.swift */; };
+		20B213FF2C39231900EAEA4F /* AppPlanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B213FE2C39231900EAEA4F /* AppPlanView.swift */; };
+		20B214012C39232F00EAEA4F /* StickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B214002C39232F00EAEA4F /* StickerView.swift */; };
+		20B214092C3C32E600EAEA4F /* AuthenticationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B214082C3C32E600EAEA4F /* AuthenticationView.swift */; };
+		20B2140E2C3D2BB300EAEA4F /* PostCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B2140D2C3D2BB300EAEA4F /* PostCellView.swift */; };
+		20B214102C3D2D1000EAEA4F /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B2140F2C3D2D1000EAEA4F /* FeedView.swift */; };
+		20B214122C3F9A5A00EAEA4F /* LostAndFoundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B214112C3F9A5A00EAEA4F /* LostAndFoundView.swift */; };
+		20B214202C42E00500EAEA4F /* ResortDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B2141F2C42E00500EAEA4F /* ResortDetailView.swift */; };
+		20DEF7A52C61F2B400145E35 /* demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20DEF7A42C61F2B400145E35 /* demo.swift */; };
+		20DEF7A82C64B6CA00145E35 /* Snap in Frameworks */ = {isa = PBXBuildFile; productRef = 20DEF7A72C64B6CA00145E35 /* Snap */; };
+		20DEF7AA2C64B70B00145E35 /* Favorites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20DEF7A92C64B70B00145E35 /* Favorites.swift */; };
+		20DEF7AC2C64B72E00145E35 /* Recents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20DEF7AB2C64B72E00145E35 /* Recents.swift */; };
+		20DEF7B42C6A125500145E35 /* ResortsScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20DEF7B32C6A125500145E35 /* ResortsScrollView.swift */; };
+		20E2CB5E2D193305004E7BD9 /* LostAndFoundCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20E2CB5D2D193305004E7BD9 /* LostAndFoundCard.swift */; };
+		20ED67F42D0450A6003B3C64 /* MijickTimer in Frameworks */ = {isa = PBXBuildFile; productRef = 20ED67F32D0450A6003B3C64 /* MijickTimer */; };
+		20F30E372E79432300D360DE /* HomeDashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F30E362E79432300D360DE /* HomeDashboardView.swift */; };
+		20F30E3B2E7BAA0600D360DE /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F30E3A2E7BAA0600D360DE /* test.swift */; };
+		20F30E412E80E1C500D360DE /* ProfileSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F30E402E80E1C500D360DE /* ProfileSettingsView.swift */; };
+		20F30E432E812E7100D360DE /* UIPrimitives.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F30E422E812E7100D360DE /* UIPrimitives.swift */; };
+		20F30E462E82442200D360DE /* AboutUsHubView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F30E452E82442200D360DE /* AboutUsHubView.swift */; };
+		20F30E482E83D4E800D360DE /* RequireLoginButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F30E472E83D4E800D360DE /* RequireLoginButton.swift */; };
+		20F30E4E2E87832C00D360DE /* HideFloatingTabBarModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F30E4D2E87832C00D360DE /* HideFloatingTabBarModifier.swift */; };
+		20F30E542E94291100D360DE /* ResortsCommunityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F30E532E94291100D360DE /* ResortsCommunityView.swift */; };
+		20F30E562E97882900D360DE /* ResortsPostComposerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F30E552E97882900D360DE /* ResortsPostComposerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,8 +194,45 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		20E2CB912D1D0F42004E7BD9 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
-		202E60B52C217F9E0062D40F /* GoSnow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoSnow.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2007D8822C9F1C200007ED4D /* GoSnow.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = GoSnow.entitlements; sourceTree = "<group>"; };
+		2007D8932CA1A9410007ED4D /* AuthKey_DVLFVN65YU.p8 */ = {isa = PBXFileReference; lastKnownFileType = text; path = AuthKey_DVLFVN65YU.p8; sourceTree = "<group>"; };
+		2007D8972CA1C8D10007ED4D /* StoreManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreManager.swift; sourceTree = "<group>"; };
+		2007D8A82CA69D9C0007ED4D /* premium.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = premium.storekit; sourceTree = "<group>"; };
+		2007D8AC2CA98EA60007ED4D /* demo6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demo6.swift; sourceTree = "<group>"; };
+		2007D8AE2CAB1C8E0007ED4D /* ZoomableImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoomableImageView.swift; sourceTree = "<group>"; };
+		2007D8B02CAC63170007ED4D /* Sheet2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheet2View.swift; sourceTree = "<group>"; };
+		2007D8B42CAE84E50007ED4D /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
+		2007D8B62CAEBB230007ED4D /* AddPostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPostView.swift; sourceTree = "<group>"; };
+		2007D8B82CB028340007ED4D /* CommentsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentsView.swift; sourceTree = "<group>"; };
+		2007D8BA2CB02F6E0007ED4D /* PostDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetailView.swift; sourceTree = "<group>"; };
+		2016A8532C6E485A001F428B /* ChartsOfSnowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartsOfSnowView.swift; sourceTree = "<group>"; };
+		2016A8572C70DD94001F428B /* Sheet3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheet3View.swift; sourceTree = "<group>"; };
+		2016A8592C718D07001F428B /* Sheet1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheet1View.swift; sourceTree = "<group>"; };
+		2016A85B2C760EAC001F428B /* MapViewRepresentable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewRepresentable.swift; sourceTree = "<group>"; };
+		2016A85D2C76120B001F428B /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		2016A8672C78E262001F428B /* Welcome1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Welcome1View.swift; sourceTree = "<group>"; };
+		2016A8692C78E33F001F428B /* Welcome2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Welcome2View.swift; sourceTree = "<group>"; };
+		2016A86B2C78E34D001F428B /* Welcome3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Welcome3View.swift; sourceTree = "<group>"; };
+		2016A88B2C7DECE4001F428B /* Premium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Premium.swift; sourceTree = "<group>"; };
+		2016A88E2C7E2950001F428B /* PremiumCard1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremiumCard1.swift; sourceTree = "<group>"; };
+		2016A8902C7E295D001F428B /* PremiumCard2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremiumCard2.swift; sourceTree = "<group>"; };
+		2016A8922C7E2965001F428B /* PremiumCard3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremiumCard3.swift; sourceTree = "<group>"; };
+		2016A8A32C871CD4001F428B /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		202E60B52C217F9E0062D40F /* 雪兔滑行.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "雪兔滑行.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		202E60B82C217F9E0062D40F /* GoSnowApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoSnowApp.swift; sourceTree = "<group>"; };
 		202E60BA2C217F9E0062D40F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		202E60BC2C217F9F0062D40F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -44,6 +242,122 @@
 		202E60CF2C217F9F0062D40F /* GoSnowUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GoSnowUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		202E60D32C217F9F0062D40F /* GoSnowUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoSnowUITests.swift; sourceTree = "<group>"; };
 		202E60D52C217F9F0062D40F /* GoSnowUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoSnowUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2037269C2C5FADCF00BC484C /* RecordingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingView.swift; sourceTree = "<group>"; };
+		203A638E2E2BA1B0005B7201 /* AllPostsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllPostsView.swift; sourceTree = "<group>"; };
+		203A63902E2BA3C8005B7201 /* ResortPostsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortPostsView.swift; sourceTree = "<group>"; };
+		203A63922E2BA4DE005B7201 /* 日后修改.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "日后修改.swift"; sourceTree = "<group>"; };
+		203A63942E332F92005B7201 /* extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extension.swift; sourceTree = "<group>"; };
+		203A63992E33915C005B7201 /* KFImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KFImageView.swift; sourceTree = "<group>"; };
+		203A63A62E3758E8005B7201 /* PostCommentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCommentViewModel.swift; sourceTree = "<group>"; };
+		203A63AA2E376D27005B7201 /* PostDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetailViewModel.swift; sourceTree = "<group>"; };
+		203A63AC2E377905005B7201 /* CommentCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCellView.swift; sourceTree = "<group>"; };
+		203A63AE2E392227005B7201 /* KeyboardResponder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardResponder.swift; sourceTree = "<group>"; };
+		204D7E192C21A0A700465F0C /* ResortsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortsView.swift; sourceTree = "<group>"; };
+		204D7E1B2C21A0DA00465F0C /* DailySnowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailySnowView.swift; sourceTree = "<group>"; };
+		204D7E1F2C21A6D800465F0C /* WeatherSummaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherSummaryView.swift; sourceTree = "<group>"; };
+		20653B702E42737A00966B6B /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
+		20653B722E42739200966B6B /* NotificationRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationRowView.swift; sourceTree = "<group>"; };
+		20653B742E4273B400966B6B /* NotificationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationViewModel.swift; sourceTree = "<group>"; };
+		20744DBB2EA0DEFB008036DF /* demo3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demo3.swift; sourceTree = "<group>"; };
+		20744DBD2EA0E6CA008036DF /* demo4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demo4.swift; sourceTree = "<group>"; };
+		20744DBF2EA1DEF1008036DF /* WelcomeAuthIntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeAuthIntroView.swift; sourceTree = "<group>"; };
+		20744DC22EA1DFFC008036DF /* login_intro_top.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = login_intro_top.mp4; sourceTree = "<group>"; };
+		20744DC62EA261DE008036DF /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		20744DC82EA51E27008036DF /* FeedVm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedVm.swift; sourceTree = "<group>"; };
+		20744DD02EA66630008036DF /* ZoomableImageFullScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoomableImageFullScreen.swift; sourceTree = "<group>"; };
+		20744DD92EADD59C008036DF /* TwitterGridImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwitterGridImages.swift; sourceTree = "<group>"; };
+		20744DDB2EADFF86008036DF /* ImageViewer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewer.swift; sourceTree = "<group>"; };
+		20744DDD2EAE42F7008036DF /* CommentsVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentsVM.swift; sourceTree = "<group>"; };
+		20744DDF2EAE4359008036DF /* NotificationsVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsVM.swift; sourceTree = "<group>"; };
+		20744DE12EAF6CAC008036DF /* ThreadedCommentsVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadedCommentsVM.swift; sourceTree = "<group>"; };
+		20744DE32EB04ABC008036DF /* ThreadedCommentsSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadedCommentsSection.swift; sourceTree = "<group>"; };
+		20744DE52EB05EF9008036DF /* TwoLevelCommentsVM.swift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoLevelCommentsVM.swift.swift; sourceTree = "<group>"; };
+		20744DEF2EB3B78F008036DF /* AppConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfig.swift; sourceTree = "<group>"; };
+		20744DF12EB3BB30008036DF /* SessionSummaryScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionSummaryScreen.swift; sourceTree = "<group>"; };
+		20744DF32EB3BE37008036DF /* EditProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfile.swift; sourceTree = "<group>"; };
+		20744DF52EB3BE60008036DF /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		20744DF72EB48F53008036DF /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		20744DF92EB490D2008036DF /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		20744E002EBAEF67008036DF /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		20744E022EBAEF7B008036DF /* CarpoolAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarpoolAPI.swift; sourceTree = "<group>"; };
+		20744E042EBAEF8E008036DF /* CarpoolViewModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarpoolViewModels.swift; sourceTree = "<group>"; };
+		20744E062EBAEF9D008036DF /* CarpoolViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarpoolViews.swift; sourceTree = "<group>"; };
+		20744E0A2EBB3366008036DF /* AddCarpoolView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCarpoolView.swift; sourceTree = "<group>"; };
+		20744E0E2EBC3F6D008036DF /* SkiMiniMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkiMiniMapView.swift; sourceTree = "<group>"; };
+		20744E112EBC95D0008036DF /* StatsTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsTypes.swift; sourceTree = "<group>"; };
+		20744E132EBC95E0008036DF /* SessionsAggregator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionsAggregator.swift; sourceTree = "<group>"; };
+		20744E152EBC9625008036DF /* StatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsView.swift; sourceTree = "<group>"; };
+		20744E172EBC96B6008036DF /* LocalStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalStore.swift; sourceTree = "<group>"; };
+		20744E1B2EBD935A008036DF /* MyCarpoolView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCarpoolView.swift; sourceTree = "<group>"; };
+		20744E1D2EBDD709008036DF /* SnowDaysHeatmapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnowDaysHeatmapView.swift; sourceTree = "<group>"; };
+		207912082CB7FC3900DC762D /* WeatherViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherViewModel.swift; sourceTree = "<group>"; };
+		2079120A2CB833B600DC762D /* BreakingReportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakingReportView.swift; sourceTree = "<group>"; };
+		2079120C2CB836BE00DC762D /* ReportSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportSheetView.swift; sourceTree = "<group>"; };
+		207912102CB9674600DC762D /* BreakingReportsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakingReportsViewModel.swift; sourceTree = "<group>"; };
+		207912122CB99D8D00DC762D /* ResortGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortGuideView.swift; sourceTree = "<group>"; };
+		207912182CBE4DAD00DC762D /* CoachDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoachDetailView.swift; sourceTree = "<group>"; };
+		2079121C2CC0FC3500DC762D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		207912202CDBC72A00DC762D /* RankingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankingViewModel.swift; sourceTree = "<group>"; };
+		208678982DD4779F007B2540 /* PostTimelineViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTimelineViewModel.swift; sourceTree = "<group>"; };
+		2086789A2DD47DE9007B2540 /* AddPostViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPostViewModel.swift; sourceTree = "<group>"; };
+		2091F4C02C8D75C600BD854F /* supabase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = supabase.swift; sourceTree = "<group>"; };
+		2091F4CA2C90915E00BD854F /* ResortsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortsList.swift; sourceTree = "<group>"; };
+		2091F4CC2C92DC2500BD854F /* demo5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demo5.swift; sourceTree = "<group>"; };
+		2091F4CE2C933E1600BD854F /* tempo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tempo.swift; sourceTree = "<group>"; };
+		209358332ED0C8570023B725 /* AboutUs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUs.swift; sourceTree = "<group>"; };
+		209358342ED0C8570023B725 /* AccountAndPrivate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountAndPrivate.swift; sourceTree = "<group>"; };
+		209358352ED0C8570023B725 /* AccountSetting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountSetting.swift; sourceTree = "<group>"; };
+		209358362ED0C8570023B725 /* CommunityTerms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommunityTerms.swift; sourceTree = "<group>"; };
+		209358372ED0C8570023B725 /* Feedback.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feedback.swift; sourceTree = "<group>"; };
+		209358382ED0C8570023B725 /* PrivatePolicy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivatePolicy.swift; sourceTree = "<group>"; };
+		20A9AF812E451A7E008DEE7E /* PostMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostMainView.swift; sourceTree = "<group>"; };
+		20A9AF842E483DD6008DEE7E /* SkiSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkiSession.swift; sourceTree = "<group>"; };
+		20A9AF882E483E06008DEE7E /* CoreLocationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreLocationService.swift; sourceTree = "<group>"; };
+		20A9AF8A2E483E23008DEE7E /* MetricsComputer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetricsComputer.swift; sourceTree = "<group>"; };
+		20A9AF8C2E483E3D008DEE7E /* BasicMetricsComputer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicMetricsComputer.swift; sourceTree = "<group>"; };
+		20A9AF8E2E483E54008DEE7E /* SessionRecorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionRecorder.swift; sourceTree = "<group>"; };
+		20A9AF902E483E6F008DEE7E /* BasicSessionRecorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicSessionRecorder.swift; sourceTree = "<group>"; };
+		20A9AF942E483E9B008DEE7E /* JSONLocalStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONLocalStore.swift; sourceTree = "<group>"; };
+		20A9AF962E483EB3008DEE7E /* RecordingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingViewModel.swift; sourceTree = "<group>"; };
+		20A9AF992E48F24D008DEE7E /* SessionSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionSummary.swift; sourceTree = "<group>"; };
+		20A9AF9B2E48F268008DEE7E /* Membership.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Membership.swift; sourceTree = "<group>"; };
+		20A9AF9D2E48F2ED008DEE7E /* SessionSummarySheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionSummarySheet.swift; sourceTree = "<group>"; };
+		20A9AF9F2E4A52BC008DEE7E /* SessionsStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionsStore.swift; sourceTree = "<group>"; };
+		20A9AFA12E4AF665008DEE7E /* AuthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthManager.swift; sourceTree = "<group>"; };
+		20A9AFA32E4E15C9008DEE7E /*  UIComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " UIComponents.swift"; sourceTree = "<group>"; };
+		20A9AFA52E4E1C17008DEE7E /* UserAvatar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserAvatar.swift; sourceTree = "<group>"; };
+		20A9AFA72E4E4B06008DEE7E /* KFUserAvatar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KFUserAvatar.swift; sourceTree = "<group>"; };
+		20A9AFA92E50E72F008DEE7E /* ResortPickerSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortPickerSheet.swift; sourceTree = "<group>"; };
+		20AC3BF02D40E8C100925454 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		20AC3BF22D412DAD00925454 /* QuestionDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionDetailView.swift; sourceTree = "<group>"; };
+		20B213F42C39222500EAEA4F /* SnowSquareView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnowSquareView.swift; sourceTree = "<group>"; };
+		20B213F62C39229800EAEA4F /* RankingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankingView.swift; sourceTree = "<group>"; };
+		20B213F82C3922BB00EAEA4F /* FindCoachView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCoachView.swift; sourceTree = "<group>"; };
+		20B213FA2C3922DA00EAEA4F /* GuideBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuideBookView.swift; sourceTree = "<group>"; };
+		20B213FC2C3922F600EAEA4F /* AppLogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppLogoView.swift; sourceTree = "<group>"; };
+		20B213FE2C39231900EAEA4F /* AppPlanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppPlanView.swift; sourceTree = "<group>"; };
+		20B214002C39232F00EAEA4F /* StickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickerView.swift; sourceTree = "<group>"; };
+		20B214082C3C32E600EAEA4F /* AuthenticationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationView.swift; sourceTree = "<group>"; };
+		20B2140D2C3D2BB300EAEA4F /* PostCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCellView.swift; sourceTree = "<group>"; };
+		20B2140F2C3D2D1000EAEA4F /* FeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedView.swift; sourceTree = "<group>"; };
+		20B214112C3F9A5A00EAEA4F /* LostAndFoundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LostAndFoundView.swift; sourceTree = "<group>"; };
+		20B2141F2C42E00500EAEA4F /* ResortDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortDetailView.swift; sourceTree = "<group>"; };
+		20DEF7A42C61F2B400145E35 /* demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demo.swift; sourceTree = "<group>"; };
+		20DEF7A92C64B70B00145E35 /* Favorites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favorites.swift; sourceTree = "<group>"; };
+		20DEF7AB2C64B72E00145E35 /* Recents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recents.swift; sourceTree = "<group>"; };
+		20DEF7B32C6A125500145E35 /* ResortsScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortsScrollView.swift; sourceTree = "<group>"; };
+		20E2CB5D2D193305004E7BD9 /* LostAndFoundCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LostAndFoundCard.swift; sourceTree = "<group>"; };
+		20E2CB6F2D1D0F41004E7BD9 /* Intents.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Intents.framework; path = System/Library/Frameworks/Intents.framework; sourceTree = SDKROOT; };
+		20E2CB7A2D1D0F42004E7BD9 /* IntentsUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IntentsUI.framework; path = System/Library/Frameworks/IntentsUI.framework; sourceTree = SDKROOT; };
+		20F30E362E79432300D360DE /* HomeDashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeDashboardView.swift; sourceTree = "<group>"; };
+		20F30E3A2E7BAA0600D360DE /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
+		20F30E402E80E1C500D360DE /* ProfileSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSettingsView.swift; sourceTree = "<group>"; };
+		20F30E422E812E7100D360DE /* UIPrimitives.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIPrimitives.swift; sourceTree = "<group>"; };
+		20F30E452E82442200D360DE /* AboutUsHubView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsHubView.swift; sourceTree = "<group>"; };
+		20F30E472E83D4E800D360DE /* RequireLoginButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequireLoginButton.swift; sourceTree = "<group>"; };
+		20F30E4D2E87832C00D360DE /* HideFloatingTabBarModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HideFloatingTabBarModifier.swift; sourceTree = "<group>"; };
+		20F30E532E94291100D360DE /* ResortsCommunityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortsCommunityView.swift; sourceTree = "<group>"; };
+		20F30E552E97882900D360DE /* ResortsPostComposerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortsPostComposerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +365,17 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2016A8B92C887667001F428B /* Supabase in Frameworks */,
+				203A63982E33911B005B7201 /* Kingfisher in Frameworks */,
+				2016A8A02C82180B001F428B /* Storage in Frameworks */,
+				2016A89A2C82180B001F428B /* Functions in Frameworks */,
+				20ED67F42D0450A6003B3C64 /* MijickTimer in Frameworks */,
+				2016A8982C82180B001F428B /* Auth in Frameworks */,
+				203A63A12E3545F3005B7201 /* ExyteGrid in Frameworks */,
+				20744DD82EADC141008036DF /* SKPhotoBrowser in Frameworks */,
+				2057317A2D17F94E00F946BD /* Refresh in Frameworks */,
+				20DEF7A82C64B6CA00145E35 /* Snap in Frameworks */,
+				2079121F2CD47E2E00DC762D /* ContributionChart in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,6 +383,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2016A8B12C88752F001F428B /* Supabase in Frameworks */,
+				2016A8AF2C88752F001F428B /* Storage in Frameworks */,
+				2016A8AD2C88752F001F428B /* PostgREST in Frameworks */,
+				2016A8AB2C88752F001F428B /* Functions in Frameworks */,
+				2016A8A92C88752F001F428B /* Auth in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,26 +395,109 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2016A8BD2C8876AD001F428B /* Supabase in Frameworks */,
+				2016A8B72C887667001F428B /* Storage in Frameworks */,
+				2016A8B52C887667001F428B /* PostgREST in Frameworks */,
+				2016A8BB2C8876AD001F428B /* Auth in Frameworks */,
+				2016A8B32C887667001F428B /* Functions in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2007D8882CA193930007ED4D /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		2007D8892CA1939A0007ED4D /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				2007D8A82CA69D9C0007ED4D /* premium.storekit */,
+				2007D8972CA1C8D10007ED4D /* StoreManager.swift */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		2007D89C2CA4662E0007ED4D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				20E2CB6F2D1D0F41004E7BD9 /* Intents.framework */,
+				20E2CB7A2D1D0F42004E7BD9 /* IntentsUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2016A8522C6E47C0001F428B /* New Group 2 */ = {
+			isa = PBXGroup;
+			children = (
+				20F30E362E79432300D360DE /* HomeDashboardView.swift */,
+				20F30E472E83D4E800D360DE /* RequireLoginButton.swift */,
+				20F30E402E80E1C500D360DE /* ProfileSettingsView.swift */,
+				20744DF92EB490D2008036DF /* SettingsView.swift */,
+				20744DF32EB3BE37008036DF /* EditProfile.swift */,
+				20F30E452E82442200D360DE /* AboutUsHubView.swift */,
+				20744DF52EB3BE60008036DF /* UserData.swift */,
+				207912122CB99D8D00DC762D /* ResortGuideView.swift */,
+				207912102CB9674600DC762D /* BreakingReportsViewModel.swift */,
+				2079120A2CB833B600DC762D /* BreakingReportView.swift */,
+				2079120C2CB836BE00DC762D /* ReportSheetView.swift */,
+				2016A85D2C76120B001F428B /* LocationManager.swift */,
+				20A9AF832E483DBF008DEE7E /* Recording */,
+				207912082CB7FC3900DC762D /* WeatherViewModel.swift */,
+				2016A85B2C760EAC001F428B /* MapViewRepresentable.swift */,
+				20DEF7AB2C64B72E00145E35 /* Recents.swift */,
+				20DEF7A92C64B70B00145E35 /* Favorites.swift */,
+			);
+			path = "New Group 2";
+			sourceTree = "<group>";
+		};
+		2016A8662C78E212001F428B /* OnboardingView */ = {
+			isa = PBXGroup;
+			children = (
+				2016A8672C78E262001F428B /* Welcome1View.swift */,
+				2016A8692C78E33F001F428B /* Welcome2View.swift */,
+				2016A86B2C78E34D001F428B /* Welcome3View.swift */,
+				20744DF72EB48F53008036DF /* WelcomeView.swift */,
+			);
+			path = OnboardingView;
+			sourceTree = "<group>";
+		};
+		2016A88D2C7E2932001F428B /* Premium */ = {
+			isa = PBXGroup;
+			children = (
+				2016A88B2C7DECE4001F428B /* Premium.swift */,
+				2016A88E2C7E2950001F428B /* PremiumCard1.swift */,
+				2016A8902C7E295D001F428B /* PremiumCard2.swift */,
+				2016A8922C7E2965001F428B /* PremiumCard3.swift */,
+			);
+			path = Premium;
+			sourceTree = "<group>";
+		};
 		202E60AC2C217F9E0062D40F = {
 			isa = PBXGroup;
 			children = (
+				20744E0D2EBC3F47008036DF /* New Group 2 */,
+				20744DC12EA1DFBD008036DF /* video */,
+				20F30E4C2E87831200D360DE /* Modifier */,
+				2007D8892CA1939A0007ED4D /* New Group */,
+				2091F4B92C8CA09000BD854F /* Router */,
 				202E60B72C217F9E0062D40F /* GoSnow */,
 				202E60C82C217F9F0062D40F /* GoSnowTests */,
 				202E60D22C217F9F0062D40F /* GoSnowUITests */,
 				202E60B62C217F9E0062D40F /* Products */,
+				2007D8932CA1A9410007ED4D /* AuthKey_DVLFVN65YU.p8 */,
+				2007D89C2CA4662E0007ED4D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
 		202E60B62C217F9E0062D40F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				202E60B52C217F9E0062D40F /* GoSnow.app */,
+				202E60B52C217F9E0062D40F /* 雪兔滑行.app */,
 				202E60C52C217F9F0062D40F /* GoSnowTests.xctest */,
 				202E60CF2C217F9F0062D40F /* GoSnowUITests.xctest */,
 			);
@@ -94,9 +507,19 @@
 		202E60B72C217F9E0062D40F /* GoSnow */ = {
 			isa = PBXGroup;
 			children = (
+				2079121C2CC0FC3500DC762D /* Info.plist */,
+				2007D8822C9F1C200007ED4D /* GoSnow.entitlements */,
+				20B214062C3C32AB00EAEA4F /* New Group */,
+				204D7E142C21A04000465F0C /* View */,
 				202E60B82C217F9E0062D40F /* GoSnowApp.swift */,
+				20744DBF2EA1DEF1008036DF /* WelcomeAuthIntroView.swift */,
+				20744DC62EA261DE008036DF /* OnboardingView.swift */,
+				209358322ED0C8350023B725 /* policy */,
+				20B214152C3F9F0D00EAEA4F /* General */,
 				202E60BA2C217F9E0062D40F /* ContentView.swift */,
+				203A63922E2BA4DE005B7201 /* 日后修改.swift */,
 				202E60BC2C217F9F0062D40F /* Assets.xcassets */,
+				2016A8662C78E212001F428B /* OnboardingView */,
 				202E60BE2C217F9F0062D40F /* Preview Content */,
 			);
 			path = GoSnow;
@@ -127,24 +550,298 @@
 			path = GoSnowUITests;
 			sourceTree = "<group>";
 		};
+		204D7E142C21A04000465F0C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				2016A8522C6E47C0001F428B /* New Group 2 */,
+				20DEF7A42C61F2B400145E35 /* demo.swift */,
+				20744DBB2EA0DEFB008036DF /* demo3.swift */,
+				20744DBD2EA0E6CA008036DF /* demo4.swift */,
+				20F30E502E92CF5200D360DE /* ActivityHubView */,
+				20B2141E2C42DFE100EAEA4F /* New Group */,
+				20B213F12C39218600EAEA4F /* FindPage */,
+				204D7E1F2C21A6D800465F0C /* WeatherSummaryView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		20653B6F2E42735000966B6B /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				20653B702E42737A00966B6B /* NotificationView.swift */,
+				20653B722E42739200966B6B /* NotificationRowView.swift */,
+				20653B742E4273B400966B6B /* NotificationViewModel.swift */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		20744DC12EA1DFBD008036DF /* video */ = {
+			isa = PBXGroup;
+			children = (
+				20744DC22EA1DFFC008036DF /* login_intro_top.mp4 */,
+			);
+			path = video;
+			sourceTree = "<group>";
+		};
+		20744DFB2EBAED2C008036DF /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				20744E002EBAEF67008036DF /* Models.swift */,
+				20744E022EBAEF7B008036DF /* CarpoolAPI.swift */,
+				20744E1B2EBD935A008036DF /* MyCarpoolView.swift */,
+				20744E042EBAEF8E008036DF /* CarpoolViewModels.swift */,
+				20744E062EBAEF9D008036DF /* CarpoolViews.swift */,
+				20744E0A2EBB3366008036DF /* AddCarpoolView.swift */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		20744E0D2EBC3F47008036DF /* New Group 2 */ = {
+			isa = PBXGroup;
+			children = (
+				20744E0E2EBC3F6D008036DF /* SkiMiniMapView.swift */,
+			);
+			path = "New Group 2";
+			sourceTree = "<group>";
+		};
+		20744E102EBC95BD008036DF /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				20744E112EBC95D0008036DF /* StatsTypes.swift */,
+				20744E132EBC95E0008036DF /* SessionsAggregator.swift */,
+				20744E152EBC9625008036DF /* StatsView.swift */,
+				20744E1D2EBDD709008036DF /* SnowDaysHeatmapView.swift */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		2091F4B92C8CA09000BD854F /* Router */ = {
+			isa = PBXGroup;
+			children = (
+				2007D8882CA193930007ED4D /* New Group */,
+				2091F4C02C8D75C600BD854F /* supabase.swift */,
+				203A63942E332F92005B7201 /* extension.swift */,
+				20A9AFA32E4E15C9008DEE7E /*  UIComponents.swift */,
+				20A9AFA12E4AF665008DEE7E /* AuthManager.swift */,
+				2091F4CA2C90915E00BD854F /* ResortsList.swift */,
+				2091F4CC2C92DC2500BD854F /* demo5.swift */,
+				2007D8AC2CA98EA60007ED4D /* demo6.swift */,
+				2091F4CE2C933E1600BD854F /* tempo.swift */,
+			);
+			path = Router;
+			sourceTree = "<group>";
+		};
+		209358322ED0C8350023B725 /* policy */ = {
+			isa = PBXGroup;
+			children = (
+				209358332ED0C8570023B725 /* AboutUs.swift */,
+				209358342ED0C8570023B725 /* AccountAndPrivate.swift */,
+				209358352ED0C8570023B725 /* AccountSetting.swift */,
+				209358362ED0C8570023B725 /* CommunityTerms.swift */,
+				209358372ED0C8570023B725 /* Feedback.swift */,
+				209358382ED0C8570023B725 /* PrivatePolicy.swift */,
+			);
+			path = policy;
+			sourceTree = "<group>";
+		};
+		20A9AF832E483DBF008DEE7E /* Recording */ = {
+			isa = PBXGroup;
+			children = (
+				20744E102EBC95BD008036DF /* New Group */,
+				20A9AF982E48F22A008DEE7E /* Summary */,
+				20A9AF842E483DD6008DEE7E /* SkiSession.swift */,
+				2037269C2C5FADCF00BC484C /* RecordingView.swift */,
+				20744DF12EB3BB30008036DF /* SessionSummaryScreen.swift */,
+				20A9AF9F2E4A52BC008DEE7E /* SessionsStore.swift */,
+				20A9AF882E483E06008DEE7E /* CoreLocationService.swift */,
+				20A9AF8A2E483E23008DEE7E /* MetricsComputer.swift */,
+				20A9AF8C2E483E3D008DEE7E /* BasicMetricsComputer.swift */,
+				20A9AF8E2E483E54008DEE7E /* SessionRecorder.swift */,
+				20744DEF2EB3B78F008036DF /* AppConfig.swift */,
+				20A9AF902E483E6F008DEE7E /* BasicSessionRecorder.swift */,
+				20A9AF942E483E9B008DEE7E /* JSONLocalStore.swift */,
+				20744E172EBC96B6008036DF /* LocalStore.swift */,
+				20A9AF962E483EB3008DEE7E /* RecordingViewModel.swift */,
+			);
+			path = Recording;
+			sourceTree = "<group>";
+		};
+		20A9AF982E48F22A008DEE7E /* Summary */ = {
+			isa = PBXGroup;
+			children = (
+				20A9AF992E48F24D008DEE7E /* SessionSummary.swift */,
+				20A9AF9B2E48F268008DEE7E /* Membership.swift */,
+				20A9AF9D2E48F2ED008DEE7E /* SessionSummarySheet.swift */,
+			);
+			path = Summary;
+			sourceTree = "<group>";
+		};
+		20B213F12C39218600EAEA4F /* FindPage */ = {
+			isa = PBXGroup;
+			children = (
+				204D7E1B2C21A0DA00465F0C /* DailySnowView.swift */,
+				2016A88D2C7E2932001F428B /* Premium */,
+				20B213F22C3921CA00EAEA4F /* FindPageItem */,
+			);
+			path = FindPage;
+			sourceTree = "<group>";
+		};
+		20B213F22C3921CA00EAEA4F /* FindPageItem */ = {
+			isa = PBXGroup;
+			children = (
+				20B214182C3FF51D00EAEA4F /* LostAndFound */,
+				20B2140C2C3D2B7300EAEA4F /* PostView */,
+				20B213F42C39222500EAEA4F /* SnowSquareView.swift */,
+				20744DFB2EBAED2C008036DF /* New Group */,
+				20B213F62C39229800EAEA4F /* RankingView.swift */,
+				207912202CDBC72A00DC762D /* RankingViewModel.swift */,
+				20B213F82C3922BB00EAEA4F /* FindCoachView.swift */,
+				207912182CBE4DAD00DC762D /* CoachDetailView.swift */,
+				20B213FA2C3922DA00EAEA4F /* GuideBookView.swift */,
+				20AC3BF22D412DAD00925454 /* QuestionDetailView.swift */,
+				20AC3BF02D40E8C100925454 /* CardView.swift */,
+				20B213FC2C3922F600EAEA4F /* AppLogoView.swift */,
+				20B213FE2C39231900EAEA4F /* AppPlanView.swift */,
+				20B214002C39232F00EAEA4F /* StickerView.swift */,
+			);
+			path = FindPageItem;
+			sourceTree = "<group>";
+		};
+		20B214062C3C32AB00EAEA4F /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				20B214072C3C32C800EAEA4F /* New Group */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		20B214072C3C32C800EAEA4F /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				20B214082C3C32E600EAEA4F /* AuthenticationView.swift */,
+				2016A8A32C871CD4001F428B /* LoginView.swift */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		20B2140C2C3D2B7300EAEA4F /* PostView */ = {
+			isa = PBXGroup;
+			children = (
+				20653B6F2E42735000966B6B /* New Group */,
+				20B2140D2C3D2BB300EAEA4F /* PostCellView.swift */,
+				20A9AFA52E4E1C17008DEE7E /* UserAvatar.swift */,
+				20B2140F2C3D2D1000EAEA4F /* FeedView.swift */,
+				20A9AF812E451A7E008DEE7E /* PostMainView.swift */,
+				20744DDB2EADFF86008036DF /* ImageViewer.swift */,
+				2086789A2DD47DE9007B2540 /* AddPostViewModel.swift */,
+				203A638E2E2BA1B0005B7201 /* AllPostsView.swift */,
+				203A63902E2BA3C8005B7201 /* ResortPostsView.swift */,
+				208678982DD4779F007B2540 /* PostTimelineViewModel.swift */,
+				2007D8B62CAEBB230007ED4D /* AddPostView.swift */,
+				203A63A62E3758E8005B7201 /* PostCommentViewModel.swift */,
+				203A63992E33915C005B7201 /* KFImageView.swift */,
+				2007D8B82CB028340007ED4D /* CommentsView.swift */,
+				20A9AFA72E4E4B06008DEE7E /* KFUserAvatar.swift */,
+				2007D8BA2CB02F6E0007ED4D /* PostDetailView.swift */,
+				203A63AE2E392227005B7201 /* KeyboardResponder.swift */,
+				203A63AC2E377905005B7201 /* CommentCellView.swift */,
+				203A63AA2E376D27005B7201 /* PostDetailViewModel.swift */,
+			);
+			path = PostView;
+			sourceTree = "<group>";
+		};
+		20B214152C3F9F0D00EAEA4F /* General */ = {
+			isa = PBXGroup;
+			children = (
+				20F30E422E812E7100D360DE /* UIPrimitives.swift */,
+			);
+			path = General;
+			sourceTree = "<group>";
+		};
+		20B214182C3FF51D00EAEA4F /* LostAndFound */ = {
+			isa = PBXGroup;
+			children = (
+				20B214112C3F9A5A00EAEA4F /* LostAndFoundView.swift */,
+				2007D8B42CAE84E50007ED4D /* AddItemView.swift */,
+				20E2CB5D2D193305004E7BD9 /* LostAndFoundCard.swift */,
+				20A9AFA92E50E72F008DEE7E /* ResortPickerSheet.swift */,
+			);
+			path = LostAndFound;
+			sourceTree = "<group>";
+		};
+		20B2141E2C42DFE100EAEA4F /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				204D7E192C21A0A700465F0C /* ResortsView.swift */,
+				20DEF7B32C6A125500145E35 /* ResortsScrollView.swift */,
+				20B2141F2C42E00500EAEA4F /* ResortDetailView.swift */,
+				2016A8532C6E485A001F428B /* ChartsOfSnowView.swift */,
+				20744DD02EA66630008036DF /* ZoomableImageFullScreen.swift */,
+				20F30E3A2E7BAA0600D360DE /* test.swift */,
+				2007D8B02CAC63170007ED4D /* Sheet2View.swift */,
+				2016A8592C718D07001F428B /* Sheet1View.swift */,
+				2016A8572C70DD94001F428B /* Sheet3View.swift */,
+				2007D8AE2CAB1C8E0007ED4D /* ZoomableImageView.swift */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		20F30E4C2E87831200D360DE /* Modifier */ = {
+			isa = PBXGroup;
+			children = (
+				20F30E4D2E87832C00D360DE /* HideFloatingTabBarModifier.swift */,
+			);
+			path = Modifier;
+			sourceTree = "<group>";
+		};
+		20F30E502E92CF5200D360DE /* ActivityHubView */ = {
+			isa = PBXGroup;
+			children = (
+				20F30E532E94291100D360DE /* ResortsCommunityView.swift */,
+				20744DE12EAF6CAC008036DF /* ThreadedCommentsVM.swift */,
+				20744DE32EB04ABC008036DF /* ThreadedCommentsSection.swift */,
+				20744DE52EB05EF9008036DF /* TwoLevelCommentsVM.swift.swift */,
+				20744DD92EADD59C008036DF /* TwitterGridImages.swift */,
+				20744DC82EA51E27008036DF /* FeedVm.swift */,
+				20744DDF2EAE4359008036DF /* NotificationsVM.swift */,
+				20744DDD2EAE42F7008036DF /* CommentsVM.swift */,
+				20F30E552E97882900D360DE /* ResortsPostComposerView.swift */,
+			);
+			path = ActivityHubView;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		202E60B42C217F9E0062D40F /* GoSnow */ = {
+		202E60B42C217F9E0062D40F /* 雪兔滑行 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 202E60D92C217F9F0062D40F /* Build configuration list for PBXNativeTarget "GoSnow" */;
+			buildConfigurationList = 202E60D92C217F9F0062D40F /* Build configuration list for PBXNativeTarget "雪兔滑行" */;
 			buildPhases = (
 				202E60B12C217F9E0062D40F /* Sources */,
 				202E60B22C217F9E0062D40F /* Frameworks */,
 				202E60B32C217F9E0062D40F /* Resources */,
+				20E2CB912D1D0F42004E7BD9 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = GoSnow;
+			name = "雪兔滑行";
+			packageProductDependencies = (
+				20DEF7A72C64B6CA00145E35 /* Snap */,
+				2016A8972C82180B001F428B /* Auth */,
+				2016A8992C82180B001F428B /* Functions */,
+				2016A89F2C82180B001F428B /* Storage */,
+				2016A8B82C887667001F428B /* Supabase */,
+				2079121E2CD47E2E00DC762D /* ContributionChart */,
+				20ED67F32D0450A6003B3C64 /* MijickTimer */,
+				205731792D17F94E00F946BD /* Refresh */,
+				203A63972E33911B005B7201 /* Kingfisher */,
+				203A63A02E3545F3005B7201 /* ExyteGrid */,
+				20744DD72EADC141008036DF /* SKPhotoBrowser */,
+			);
 			productName = GoSnow;
-			productReference = 202E60B52C217F9E0062D40F /* GoSnow.app */;
+			productReference = 202E60B52C217F9E0062D40F /* 雪兔滑行.app */;
 			productType = "com.apple.product-type.application";
 		};
 		202E60C42C217F9F0062D40F /* GoSnowTests */ = {
@@ -161,6 +858,13 @@
 				202E60C72C217F9F0062D40F /* PBXTargetDependency */,
 			);
 			name = GoSnowTests;
+			packageProductDependencies = (
+				2016A8A82C88752F001F428B /* Auth */,
+				2016A8AA2C88752F001F428B /* Functions */,
+				2016A8AC2C88752F001F428B /* PostgREST */,
+				2016A8AE2C88752F001F428B /* Storage */,
+				2016A8B02C88752F001F428B /* Supabase */,
+			);
 			productName = GoSnowTests;
 			productReference = 202E60C52C217F9F0062D40F /* GoSnowTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
@@ -179,6 +883,13 @@
 				202E60D12C217F9F0062D40F /* PBXTargetDependency */,
 			);
 			name = GoSnowUITests;
+			packageProductDependencies = (
+				2016A8B22C887667001F428B /* Functions */,
+				2016A8B42C887667001F428B /* PostgREST */,
+				2016A8B62C887667001F428B /* Storage */,
+				2016A8BA2C8876AD001F428B /* Auth */,
+				2016A8BC2C8876AD001F428B /* Supabase */,
+			);
 			productName = GoSnowUITests;
 			productReference = 202E60CF2C217F9F0062D40F /* GoSnowUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
@@ -190,6 +901,9 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
+				KnownAssetTags = (
+					New,
+				);
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
@@ -208,18 +922,29 @@
 			};
 			buildConfigurationList = 202E60B02C217F9E0062D40F /* Build configuration list for PBXProject "GoSnow" */;
 			compatibilityVersion = "Xcode 15.0";
-			developmentRegion = en;
+			developmentRegion = "zh-Hans";
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
 			);
 			mainGroup = 202E60AC2C217F9E0062D40F;
+			packageReferences = (
+				20DEF7A62C64B6CA00145E35 /* XCRemoteSwiftPackageReference "Snap" */,
+				2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */,
+				2079121D2CD47E2E00DC762D /* XCRemoteSwiftPackageReference "SwiftUI-ContributionChart" */,
+				20ED67F22D0450A6003B3C64 /* XCRemoteSwiftPackageReference "Timer" */,
+				205731782D17F94E00F946BD /* XCRemoteSwiftPackageReference "Refresh" */,
+				203A63962E33911B005B7201 /* XCRemoteSwiftPackageReference "Kingfisher" */,
+				203A639F2E3545F3005B7201 /* XCRemoteSwiftPackageReference "Grid" */,
+				20744DD62EADC141008036DF /* XCRemoteSwiftPackageReference "SKPhotoBrowser" */,
+			);
 			productRefGroup = 202E60B62C217F9E0062D40F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				202E60B42C217F9E0062D40F /* GoSnow */,
+				202E60B42C217F9E0062D40F /* 雪兔滑行 */,
 				202E60C42C217F9F0062D40F /* GoSnowTests */,
 				202E60CE2C217F9F0062D40F /* GoSnowUITests */,
 			);
@@ -231,7 +956,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20744DC32EA1DFFC008036DF /* login_intro_top.mp4 in Resources */,
+				2007D8952CA1A9410007ED4D /* AuthKey_DVLFVN65YU.p8 in Resources */,
 				202E60C02C217F9F0062D40F /* Preview Assets.xcassets in Resources */,
+				2007D8A92CA69D9C0007ED4D /* premium.storekit in Resources */,
 				202E60BD2C217F9F0062D40F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -240,6 +968,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2007D8AA2CA69D9C0007ED4D /* premium.storekit in Resources */,
+				2007D8942CA1A9410007ED4D /* AuthKey_DVLFVN65YU.p8 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,6 +977,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2007D8AB2CA69D9C0007ED4D /* premium.storekit in Resources */,
+				2007D8962CA1A9410007ED4D /* AuthKey_DVLFVN65YU.p8 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,8 +989,141 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20744E032EBAEF7B008036DF /* CarpoolAPI.swift in Sources */,
+				2007D8AD2CA98EA60007ED4D /* demo6.swift in Sources */,
+				20A9AFA62E4E1C17008DEE7E /* UserAvatar.swift in Sources */,
+				20744DF42EB3BE37008036DF /* EditProfile.swift in Sources */,
+				20A9AF822E451A7E008DEE7E /* PostMainView.swift in Sources */,
+				2091F4CB2C90915E00BD854F /* ResortsList.swift in Sources */,
+				203A63AB2E376D27005B7201 /* PostDetailViewModel.swift in Sources */,
+				2007D8BB2CB02F6E0007ED4D /* PostDetailView.swift in Sources */,
+				20744E1E2EBDD709008036DF /* SnowDaysHeatmapView.swift in Sources */,
+				20DEF7A52C61F2B400145E35 /* demo.swift in Sources */,
+				203A63952E332F92005B7201 /* extension.swift in Sources */,
+				20B213F72C39229800EAEA4F /* RankingView.swift in Sources */,
+				20A9AFA02E4A52BC008DEE7E /* SessionsStore.swift in Sources */,
+				20744DC02EA1DEF1008036DF /* WelcomeAuthIntroView.swift in Sources */,
+				207912192CBE4DAD00DC762D /* CoachDetailView.swift in Sources */,
+				20744DE42EB04ABC008036DF /* ThreadedCommentsSection.swift in Sources */,
+				20E2CB5E2D193305004E7BD9 /* LostAndFoundCard.swift in Sources */,
+				2016A8932C7E2965001F428B /* PremiumCard3.swift in Sources */,
+				20744DC92EA51E27008036DF /* FeedVm.swift in Sources */,
+				2086789B2DD47DE9007B2540 /* AddPostViewModel.swift in Sources */,
+				20744DF22EB3BB30008036DF /* SessionSummaryScreen.swift in Sources */,
+				20744E0B2EBB3366008036DF /* AddCarpoolView.swift in Sources */,
+				204D7E1A2C21A0A700465F0C /* ResortsView.swift in Sources */,
+				2007D8982CA1C8D10007ED4D /* StoreManager.swift in Sources */,
+				20653B712E42737A00966B6B /* NotificationView.swift in Sources */,
+				20744DE02EAE4359008036DF /* NotificationsVM.swift in Sources */,
+				20A9AF852E483DD6008DEE7E /* SkiSession.swift in Sources */,
+				2016A85E2C76120B001F428B /* LocationManager.swift in Sources */,
+				20F30E542E94291100D360DE /* ResortsCommunityView.swift in Sources */,
+				2016A8542C6E485A001F428B /* ChartsOfSnowView.swift in Sources */,
+				20A9AF9A2E48F24D008DEE7E /* SessionSummary.swift in Sources */,
+				203A639A2E33915C005B7201 /* KFImageView.swift in Sources */,
+				20B214122C3F9A5A00EAEA4F /* LostAndFoundView.swift in Sources */,
+				20744DDC2EADFF86008036DF /* ImageViewer.swift in Sources */,
+				20744E012EBAEF67008036DF /* Models.swift in Sources */,
+				20F30E562E97882900D360DE /* ResortsPostComposerView.swift in Sources */,
+				2016A85C2C760EAC001F428B /* MapViewRepresentable.swift in Sources */,
+				20B213F52C39222500EAEA4F /* SnowSquareView.swift in Sources */,
+				2016A86C2C78E34D001F428B /* Welcome3View.swift in Sources */,
+				20744E182EBC96B6008036DF /* LocalStore.swift in Sources */,
+				2007D8B92CB028340007ED4D /* CommentsView.swift in Sources */,
+				20A9AF9C2E48F268008DEE7E /* Membership.swift in Sources */,
+				2091F4CF2C933E1600BD854F /* tempo.swift in Sources */,
+				20F30E3B2E7BAA0600D360DE /* test.swift in Sources */,
+				20744DDA2EADD59C008036DF /* TwitterGridImages.swift in Sources */,
+				20744DD12EA66630008036DF /* ZoomableImageFullScreen.swift in Sources */,
+				203A63932E2BA4DE005B7201 /* 日后修改.swift in Sources */,
+				2016A8682C78E262001F428B /* Welcome1View.swift in Sources */,
+				20A9AF972E483EB3008DEE7E /* RecordingViewModel.swift in Sources */,
+				20DEF7AA2C64B70B00145E35 /* Favorites.swift in Sources */,
+				2007D8B72CAEBB230007ED4D /* AddPostView.swift in Sources */,
+				20744E052EBAEF8E008036DF /* CarpoolViewModels.swift in Sources */,
+				20F30E432E812E7100D360DE /* UIPrimitives.swift in Sources */,
+				20A9AF892E483E06008DEE7E /* CoreLocationService.swift in Sources */,
+				20653B752E4273B400966B6B /* NotificationViewModel.swift in Sources */,
+				20F30E4E2E87832C00D360DE /* HideFloatingTabBarModifier.swift in Sources */,
+				20B214012C39232F00EAEA4F /* StickerView.swift in Sources */,
+				2091F4CD2C92DC2500BD854F /* demo5.swift in Sources */,
+				20B213F92C3922BB00EAEA4F /* FindCoachView.swift in Sources */,
+				2016A86A2C78E33F001F428B /* Welcome2View.swift in Sources */,
+				20B214202C42E00500EAEA4F /* ResortDetailView.swift in Sources */,
+				203A63AD2E377905005B7201 /* CommentCellView.swift in Sources */,
+				20744E162EBC9625008036DF /* StatsView.swift in Sources */,
+				203A63A72E3758E8005B7201 /* PostCommentViewModel.swift in Sources */,
+				20653B732E42739200966B6B /* NotificationRowView.swift in Sources */,
+				208678992DD4779F007B2540 /* PostTimelineViewModel.swift in Sources */,
+				20DEF7B42C6A125500145E35 /* ResortsScrollView.swift in Sources */,
+				20A9AFA42E4E15C9008DEE7E /*  UIComponents.swift in Sources */,
+				2007D8B52CAE84E50007ED4D /* AddItemView.swift in Sources */,
+				20AC3BF32D412DAD00925454 /* QuestionDetailView.swift in Sources */,
+				207912212CDBC72A00DC762D /* RankingViewModel.swift in Sources */,
+				2093583F2ED0C8570023B725 /* AccountAndPrivate.swift in Sources */,
+				209358412ED0C8570023B725 /* AccountSetting.swift in Sources */,
+				209358442ED0C8570023B725 /* CommunityTerms.swift in Sources */,
+				209358452ED0C8570023B725 /* Feedback.swift in Sources */,
+				209358492ED0C8570023B725 /* AboutUs.swift in Sources */,
+				2093584A2ED0C8570023B725 /* PrivatePolicy.swift in Sources */,
+				20744DF02EB3B78F008036DF /* AppConfig.swift in Sources */,
+				203A638F2E2BA1B0005B7201 /* AllPostsView.swift in Sources */,
+				20B2140E2C3D2BB300EAEA4F /* PostCellView.swift in Sources */,
+				20744DF82EB48F53008036DF /* WelcomeView.swift in Sources */,
+				20B213FD2C3922F600EAEA4F /* AppLogoView.swift in Sources */,
+				207912092CB7FC3900DC762D /* WeatherViewModel.swift in Sources */,
+				20DEF7AC2C64B72E00145E35 /* Recents.swift in Sources */,
+				20744DBE2EA0E6CA008036DF /* demo4.swift in Sources */,
+				20A9AF912E483E6F008DEE7E /* BasicSessionRecorder.swift in Sources */,
+				2016A85A2C718D07001F428B /* Sheet1View.swift in Sources */,
+				20A9AFAA2E50E72F008DEE7E /* ResortPickerSheet.swift in Sources */,
+				20744DFA2EB490D2008036DF /* SettingsView.swift in Sources */,
+				2007D8AF2CAB1C8E0007ED4D /* ZoomableImageView.swift in Sources */,
+				20F30E372E79432300D360DE /* HomeDashboardView.swift in Sources */,
+				20F30E412E80E1C500D360DE /* ProfileSettingsView.swift in Sources */,
+				20B214102C3D2D1000EAEA4F /* FeedView.swift in Sources */,
+				2007D8B12CAC63170007ED4D /* Sheet2View.swift in Sources */,
+				204D7E202C21A6D800465F0C /* WeatherSummaryView.swift in Sources */,
+				20B213FB2C3922DA00EAEA4F /* GuideBookView.swift in Sources */,
+				203A63912E2BA3C8005B7201 /* ResortPostsView.swift in Sources */,
+				204D7E1C2C21A0DA00465F0C /* DailySnowView.swift in Sources */,
+				2079120B2CB833B600DC762D /* BreakingReportView.swift in Sources */,
+				2079120D2CB836BE00DC762D /* ReportSheetView.swift in Sources */,
+				207912112CB9674600DC762D /* BreakingReportsViewModel.swift in Sources */,
 				202E60BB2C217F9E0062D40F /* ContentView.swift in Sources */,
+				20A9AFA22E4AF665008DEE7E /* AuthManager.swift in Sources */,
+				2016A8912C7E295D001F428B /* PremiumCard2.swift in Sources */,
+				20744DF62EB3BE60008036DF /* UserData.swift in Sources */,
+				20AC3BF12D40E8C100925454 /* CardView.swift in Sources */,
+				20744E142EBC95E0008036DF /* SessionsAggregator.swift in Sources */,
+				20744E1C2EBD935A008036DF /* MyCarpoolView.swift in Sources */,
+				20744DE62EB05EF9008036DF /* TwoLevelCommentsVM.swift.swift in Sources */,
+				20744DE22EAF6CAC008036DF /* ThreadedCommentsVM.swift in Sources */,
+				2091F4C12C8D75C600BD854F /* supabase.swift in Sources */,
+				2016A8582C70DD94001F428B /* Sheet3View.swift in Sources */,
+				20F30E462E82442200D360DE /* AboutUsHubView.swift in Sources */,
+				20A9AF8F2E483E54008DEE7E /* SessionRecorder.swift in Sources */,
+				20B214092C3C32E600EAEA4F /* AuthenticationView.swift in Sources */,
+				20A9AFA82E4E4B06008DEE7E /* KFUserAvatar.swift in Sources */,
+				20744E122EBC95D0008036DF /* StatsTypes.swift in Sources */,
+				20744E0F2EBC3F6D008036DF /* SkiMiniMapView.swift in Sources */,
 				202E60B92C217F9E0062D40F /* GoSnowApp.swift in Sources */,
+				2037269D2C5FADCF00BC484C /* RecordingView.swift in Sources */,
+				20744E072EBAEF9D008036DF /* CarpoolViews.swift in Sources */,
+				2016A88C2C7DECE4001F428B /* Premium.swift in Sources */,
+				20B213FF2C39231900EAEA4F /* AppPlanView.swift in Sources */,
+				20744DC72EA261DE008036DF /* OnboardingView.swift in Sources */,
+				203A63AF2E392227005B7201 /* KeyboardResponder.swift in Sources */,
+				2016A8A42C871CD4001F428B /* LoginView.swift in Sources */,
+				20A9AF8B2E483E23008DEE7E /* MetricsComputer.swift in Sources */,
+				20A9AF9E2E48F2ED008DEE7E /* SessionSummarySheet.swift in Sources */,
+				207912132CB99D8D00DC762D /* ResortGuideView.swift in Sources */,
+				20A9AF8D2E483E3D008DEE7E /* BasicMetricsComputer.swift in Sources */,
+				20A9AF952E483E9B008DEE7E /* JSONLocalStore.swift in Sources */,
+				2016A88F2C7E2950001F428B /* PremiumCard1.swift in Sources */,
+				20744DBC2EA0DEFB008036DF /* demo3.swift in Sources */,
+				20744DDE2EAE42F7008036DF /* CommentsVM.swift in Sources */,
+				20F30E482E83D4E800D360DE /* RequireLoginButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,12 +1149,12 @@
 /* Begin PBXTargetDependency section */
 		202E60C72C217F9F0062D40F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 202E60B42C217F9E0062D40F /* GoSnow */;
+			target = 202E60B42C217F9E0062D40F /* 雪兔滑行 */;
 			targetProxy = 202E60C62C217F9F0062D40F /* PBXContainerItemProxy */;
 		};
 		202E60D12C217F9F0062D40F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 202E60B42C217F9E0062D40F /* GoSnow */;
+			target = 202E60B42C217F9E0062D40F /* 雪兔滑行 */;
 			targetProxy = 202E60D02C217F9F0062D40F /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -351,6 +1216,7 @@
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
+				NEW_SETTING = "";
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
@@ -408,6 +1274,7 @@
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				NEW_SETTING = "";
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				VALIDATE_PRODUCT = YES;
@@ -417,24 +1284,35 @@
 		202E60DA2C217F9F0062D40F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon_real;
+				"ASSETCATALOG_COMPILER_APPICON_NAME[sdk=iphoneos*]" = AppIcon_real;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_ENTITLEMENTS = GoSnow/GoSnow.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_ASSET_PATHS = "\"GoSnow/Preview Content\"";
+				DEVELOPMENT_TEAM = 5W4RP7SX7M;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GoSnow/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "上雪";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "为了在你锁屏时仍然继续记录滑行数据，请允许“始终”访问定位。";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "请求你的位置以使用滑雪记录功能";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "雪兔滑行请求访问您的相册";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = summerfuture.GoSnow;
+				MARKETING_VERSION = 1.5.2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.eurekamoment.gosnow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -445,25 +1323,37 @@
 		202E60DB2C217F9F0062D40F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon_real;
+				"ASSETCATALOG_COMPILER_APPICON_NAME[sdk=iphoneos*]" = AppIcon_real;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_ENTITLEMENTS = GoSnow/GoSnow.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_ASSET_PATHS = "\"GoSnow/Preview Content\"";
+				DEVELOPMENT_TEAM = 5W4RP7SX7M;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GoSnow/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "上雪";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "为了在你锁屏时仍然继续记录滑行数据，请允许“始终”访问定位。";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "请求你的位置以使用滑雪记录功能";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "雪兔滑行请求访问您的相册";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = summerfuture.GoSnow;
+				MARKETING_VERSION = 1.5.2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.eurekamoment.gosnow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -550,7 +1440,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		202E60D92C217F9F0062D40F /* Build configuration list for PBXNativeTarget "GoSnow" */ = {
+		202E60D92C217F9F0062D40F /* Build configuration list for PBXNativeTarget "雪兔滑行" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				202E60DA2C217F9F0062D40F /* Debug */,
@@ -578,6 +1468,181 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/supabase/supabase-swift.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.5.1;
+			};
+		};
+		203A63962E33911B005B7201 /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 8.5.0;
+			};
+		};
+		203A639F2E3545F3005B7201 /* XCRemoteSwiftPackageReference "Grid" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/exyte/Grid";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.5.0;
+			};
+		};
+		205731782D17F94E00F946BD /* XCRemoteSwiftPackageReference "Refresh" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/wxxsw/Refresh";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.2.0;
+			};
+		};
+		20744DD62EADC141008036DF /* XCRemoteSwiftPackageReference "SKPhotoBrowser" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/suzuki-0000/SKPhotoBrowser";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.1.0;
+			};
+		};
+		2079121D2CD47E2E00DC762D /* XCRemoteSwiftPackageReference "SwiftUI-ContributionChart" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/VIkill33/SwiftUI-ContributionChart.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.3;
+			};
+		};
+		20DEF7A62C64B6CA00145E35 /* XCRemoteSwiftPackageReference "Snap" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/nerdsupremacist/Snap.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.1.0;
+			};
+		};
+		20ED67F22D0450A6003B3C64 /* XCRemoteSwiftPackageReference "Timer" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Mijick/Timer";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		2016A8972C82180B001F428B /* Auth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Auth;
+		};
+		2016A8992C82180B001F428B /* Functions */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Functions;
+		};
+		2016A89F2C82180B001F428B /* Storage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Storage;
+		};
+		2016A8A82C88752F001F428B /* Auth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Auth;
+		};
+		2016A8AA2C88752F001F428B /* Functions */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Functions;
+		};
+		2016A8AC2C88752F001F428B /* PostgREST */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = PostgREST;
+		};
+		2016A8AE2C88752F001F428B /* Storage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Storage;
+		};
+		2016A8B02C88752F001F428B /* Supabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Supabase;
+		};
+		2016A8B22C887667001F428B /* Functions */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Functions;
+		};
+		2016A8B42C887667001F428B /* PostgREST */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = PostgREST;
+		};
+		2016A8B62C887667001F428B /* Storage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Storage;
+		};
+		2016A8B82C887667001F428B /* Supabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Supabase;
+		};
+		2016A8BA2C8876AD001F428B /* Auth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Auth;
+		};
+		2016A8BC2C8876AD001F428B /* Supabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2016A8962C82180B001F428B /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Supabase;
+		};
+		203A63972E33911B005B7201 /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 203A63962E33911B005B7201 /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+		203A63A02E3545F3005B7201 /* ExyteGrid */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 203A639F2E3545F3005B7201 /* XCRemoteSwiftPackageReference "Grid" */;
+			productName = ExyteGrid;
+		};
+		205731792D17F94E00F946BD /* Refresh */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 205731782D17F94E00F946BD /* XCRemoteSwiftPackageReference "Refresh" */;
+			productName = Refresh;
+		};
+		20744DD72EADC141008036DF /* SKPhotoBrowser */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 20744DD62EADC141008036DF /* XCRemoteSwiftPackageReference "SKPhotoBrowser" */;
+			productName = SKPhotoBrowser;
+		};
+		2079121E2CD47E2E00DC762D /* ContributionChart */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2079121D2CD47E2E00DC762D /* XCRemoteSwiftPackageReference "SwiftUI-ContributionChart" */;
+			productName = ContributionChart;
+		};
+		20DEF7A72C64B6CA00145E35 /* Snap */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 20DEF7A62C64B6CA00145E35 /* XCRemoteSwiftPackageReference "Snap" */;
+			productName = Snap;
+		};
+		20ED67F32D0450A6003B3C64 /* MijickTimer */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 20ED67F22D0450A6003B3C64 /* XCRemoteSwiftPackageReference "Timer" */;
+			productName = MijickTimer;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 202E60AD2C217F9E0062D40F /* Project object */;
 }
